@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recyclerViewPraias" type="id">1</item>
+    <item name="buttonIncluir" type="id">1</item>
+    <item name="editTextNomePraia" type="id">1</item>
+    <item name="editTextCidade" type="id">1</item>
+    <item name="editTextEstado" type="id">1</item>
+    <item name="buttonRemoverTudo" type="id">1</item>
+    <item name="recyclerViewPraia" type="id">1</item>
+    <item name="buttonAdd" type="id">1</item>
+    <item name="buttonRemoveAll" type="id">1</item>
+</resources>
